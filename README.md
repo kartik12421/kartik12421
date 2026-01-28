@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color: "#00ffff">Kartik Joshi</span>span</h1>
+<h1 align="center">Hi 👋, I'm <span style="color: "#00ffff">Kartik Joshi</span></h1>
 <h3 align="center">Full-Stack Web Developer | MERN Stack Developer | REST API | Problem Solving</h3>
 
 <h3 align="left">Connect with me:</h3>
