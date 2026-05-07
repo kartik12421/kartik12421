@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Web Developer | MERN Stack Developer | REST API | Problem Solving | Backend Development
+Full-Stack Web Developer | MERN Stack Developer | REST API | Problem Solving | Backend Development | JAVA Programming Language
 
 
 ## 🌐 Socials:
